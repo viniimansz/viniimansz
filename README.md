@@ -3,12 +3,12 @@
 ```text
 $ neofetch
 
-  ██╗   ██╗      vinicius@santana
-  ██║   ██║      ----------------
-  ██║   ██║      Role: Junior Systems Analyst
-  ╚██╗ ██╔╝      Focus: IT Support & Infrastructure
-   ╚████╔╝       Uptime: 1+ year in IT · 5 sites · 40+ users
-    ╚═══╝        Education: B.S. Information Systems @ UNIFACOL
+ __      __      vinicius@santana
+ \ \    / /      ----------------
+  \ \  / /       Role: Junior Systems Analyst
+   \ \/ /        Focus: IT Support & Infrastructure
+    \  /         Uptime: 1+ year in IT · 5 sites · 40+ users
+     \/          Education: B.S. Information Systems @ UNIFACOL
                  Languages: Java · JavaScript · TypeScript
                  Stack: Supabase · Cloudflare Pages
                  Interests: IT governance · AI automation · tabletop RPG
