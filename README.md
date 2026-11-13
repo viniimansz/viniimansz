@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, I'm Vinícius 👋
 
-<!--
-**viniimansz/viniimansz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+$ neofetch
 
-Here are some ideas to get you started:
+  ██╗   ██╗      vinicius@santana
+  ██║   ██║      ----------------
+  ██║   ██║      Role: Junior Systems Analyst
+  ╚██╗ ██╔╝      Focus: IT Support & Infrastructure
+   ╚████╔╝       Uptime: 1+ year in IT · 5 sites · 40+ users
+    ╚═══╝        Education: B.S. Information Systems @ UNIFACOL
+                 Languages: Java · JavaScript · TypeScript
+                 Stack: Supabase · Cloudflare Pages
+                 Interests: IT governance · AI automation · tabletop RPG
+                 Location: Pernambuco, Brazil
+                 Speaks: Portuguese (native) · English (intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                 contacts
+                 --------
+                 LinkedIn: linkedin.com/in/vinícius-santana-5b22053b4
+                 Email: viniimansz@gmail.com
+```
+
+### Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **IT Ticketing System** *(internal · private)* | Web system used to manage the IT department's requests across 5 branch offices | JavaScript · Supabase · Cloudflare Pages |
+| **Ponto** *(internal · private)* | Employee check-in/check-out tracking system | TypeScript |
+| [**coc-campanha**](https://github.com/viniimansz/coc-campanha) | Independent website for a tabletop RPG campaign made with friends | JavaScript |
